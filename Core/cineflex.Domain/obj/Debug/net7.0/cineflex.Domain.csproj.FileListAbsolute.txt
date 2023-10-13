@@ -1,0 +1,11 @@
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\bin\Debug\net7.0\cineflex.Domain.deps.json
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\bin\Debug\net7.0\cineflex.Domain.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\bin\Debug\net7.0\cineflex.Domain.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\obj\Debug\net7.0\cineflex.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\obj\Debug\net7.0\cineflex.Domain.AssemblyInfoInputs.cache
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\obj\Debug\net7.0\cineflex.Domain.AssemblyInfo.cs
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\obj\Debug\net7.0\cineflex.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\obj\Debug\net7.0\cineflex.Domain.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\obj\Debug\net7.0\refint\cineflex.Domain.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\obj\Debug\net7.0\cineflex.Domain.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Domain\obj\Debug\net7.0\ref\cineflex.Domain.dll

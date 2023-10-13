@@ -1,0 +1,15 @@
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\bin\Debug\net7.0\cineflex.Application.deps.json
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\bin\Debug\net7.0\cineflex.Application.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\bin\Debug\net7.0\cineflex.Application.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\bin\Debug\net7.0\cineflex.Domain.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\bin\Debug\net7.0\cineflex.Domain.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\cineflex.Application.csproj.AssemblyReference.cache
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\cineflex.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\cineflex.Application.AssemblyInfoInputs.cache
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\cineflex.Application.AssemblyInfo.cs
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\cineflex.Application.csproj.CoreCompileInputs.cache
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\cineflex.Application.csproj.CopyComplete
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\cineflex.Application.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\refint\cineflex.Application.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\cineflex.Application.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Core\cineflex.Application\obj\Debug\net7.0\ref\cineflex.Application.dll
