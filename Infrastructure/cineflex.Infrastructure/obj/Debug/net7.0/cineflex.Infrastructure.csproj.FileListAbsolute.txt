@@ -1,0 +1,17 @@
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\bin\Debug\net7.0\cineflex.Infrastructure.deps.json
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\bin\Debug\net7.0\cineflex.Infrastructure.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\bin\Debug\net7.0\cineflex.Infrastructure.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\bin\Debug\net7.0\cineflex.Application.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\bin\Debug\net7.0\cineflex.Domain.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\bin\Debug\net7.0\cineflex.Application.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\bin\Debug\net7.0\cineflex.Domain.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\cineflex.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\cineflex.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\cineflex.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\cineflex.Infrastructure.AssemblyInfo.cs
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\cineflex.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\cineflex.Infrastructure.csproj.CopyComplete
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\cineflex.Infrastructure.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\refint\cineflex.Infrastructure.dll
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\cineflex.Infrastructure.pdb
+C:\Users\Msi pc\Desktop\Microservices\Sura\cineflex\Infrastructure\cineflex.Infrastructure\obj\Debug\net7.0\ref\cineflex.Infrastructure.dll
