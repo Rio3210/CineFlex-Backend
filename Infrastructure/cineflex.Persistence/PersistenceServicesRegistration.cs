@@ -24,7 +24,7 @@ namespace cineflex.Persistence
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
             services.AddScoped<IMoviesRepository, MovieRepository>();
-           
+            services.AddScoped<ICinemaRepository, CinemaRepository>();
 
             return services;
         }
